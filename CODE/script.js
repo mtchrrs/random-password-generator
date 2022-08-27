@@ -53,7 +53,7 @@ function generatePassword(){
     const randomCharacter = characterset[Math.floor(Math.random(ii) * characterset.length)]
     password = password + randomCharacter;
   }
-  
+
   //return password
   return password;
 
@@ -62,10 +62,11 @@ function generatePassword(){
 // Write password to the #password input
 function writePassword() {
   const password = generatePassword();
+  if(password === undefined){
+    return;
+  }
   const passwordText = document.querySelector("#password");
-
   passwordText.value = password;
-
 }
 
 // Add event listener to generate button
