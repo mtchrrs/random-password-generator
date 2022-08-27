@@ -45,4 +45,23 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Using the WebApp
 
-Application URL: 
+Application URL: https://mtchrrs.github.io/week-three-homework/
+
+Upon opening the application, users will see the following screen:
+![image](https://user-images.githubusercontent.com/110107834/187017109-7a4dedfb-caa8-4ace-a85b-c8a4b90bec6e.png)
+
+
+When a user clicks the 'generate password' button, the user will then be asked a series of questions
+These questions are used to determine; how long the password should be, and what types of characters to include.
+![image](https://user-images.githubusercontent.com/110107834/187017137-95b4f3ae-4e0c-4fec-adb7-6d69128ae074.png)
+
+
+To say that you would like to add a certain type of character, the user is to click ok as seen in the window prompt
+![image](https://user-images.githubusercontent.com/110107834/187017148-91d1e1a3-3670-4f49-b10d-b7125be1227c.png)
+
+
+After the questions have been asked, the random password will appear in the box that initially said 'Your secure password'
+![image](https://user-images.githubusercontent.com/110107834/187017165-af6c01ba-1155-4c6e-b07d-36463e77ba29.png)
+
+
+Users can then generate a new password if they choose to, by following the same process
