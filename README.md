@@ -45,7 +45,7 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Using the WebApp
 
-Application URL: https://mtchrrs.github.io/week-three-homework/
+Application URL: https://mtchrrs.github.io/random-password-generator/
 
 Upon opening the application, users will see the following screen:
 ![image](https://user-images.githubusercontent.com/110107834/187017109-7a4dedfb-caa8-4ace-a85b-c8a4b90bec6e.png)
